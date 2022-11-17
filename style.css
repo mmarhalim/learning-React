@@ -1,4 +1,12 @@
-.title {
+.greeting {
   font-size: 45px;
   color: blue;
+}
+
+.es {
+  color: red;
+}
+
+.de {
+  color: green;
 }
